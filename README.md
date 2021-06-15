@@ -6,4 +6,4 @@
 
 [Tarea 1 - Python](https://github.com/Ingridrpm/IA_201602420/blob/main/Tarea1/python_201602420.pdf)
 
-[Tarea 2](https://github.com/Ingridrpm/IA_201602420/tree/main/Tarea2)
+[Tarea 2](https://ingridrpm.github.io/IA_201602420/Tarea2/01_reflex_agent.html)
